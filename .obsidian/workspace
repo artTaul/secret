@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Flutter.md",
+            "file": "Git.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "3772036fc1f5f1e3",
   "lastOpenFiles": [
+    "Git.md",
+    "Vue.md",
+    "README.md",
+    "Kotlin.md",
+    "Untitled.md",
     "Flutter.md",
     "Android.md",
     "算法.md",
     "设计模式.md",
-    "Untitled.md",
-    "Vue.md",
-    "Kotlin.md",
-    "Event官方架构图.png",
-    "官方架构图.png",
-    "Pasted image 20210426164947.png"
+    "Event官方架构图.png"
   ]
 }
