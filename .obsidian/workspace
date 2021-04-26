@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "9dee1928d970beeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3772036fc1f5f1e3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Flutter.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "871284d0a303b1f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a66e2fa574194fe8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1564eecca6ab7118",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f1732975e7bb11a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b5c01e4414a84d7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a15de22aaec6d1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c211a53cdd5d288d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Flutter.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3772036fc1f5f1e3",
+  "lastOpenFiles": [
+    "Flutter.md",
+    "Android.md",
+    "算法.md",
+    "设计模式.md",
+    "Untitled.md",
+    "Vue.md",
+    "Kotlin.md",
+    "Event官方架构图.png",
+    "官方架构图.png",
+    "Pasted image 20210426164947.png"
+  ]
+}
