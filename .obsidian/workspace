@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git.md",
+            "file": "来派生活启动步骤.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "来派生活启动步骤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "3772036fc1f5f1e3",
   "lastOpenFiles": [
-    "Git.md",
+    "来派生活启动步骤.md",
+    "Untitled.md",
+    "设计模式.md",
+    "大脑方法论.md",
+    "Android.md",
     "Vue.md",
     "README.md",
     "Kotlin.md",
-    "Untitled.md",
-    "Flutter.md",
-    "Android.md",
-    "算法.md",
-    "设计模式.md",
-    "Event官方架构图.png"
+    "Git.md",
+    "Flutter.md"
   ]
 }
