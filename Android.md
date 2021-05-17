@@ -15,3 +15,5 @@ if (Build.VERSION.SDK_INT>= Build.VERSION_CODES.KITKAT) {
 
 3. Android 签名包下debug
 在app目录下的android MandroidManifest的application节点下 添加android:debuggable="true"
+
+4. AndroidStudio 翻译插件： Translation

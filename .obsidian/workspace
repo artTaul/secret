@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "大脑方法论.md",
+            "file": "来派生活启动步骤.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大脑方法论.md",
+                "file": "来派生活启动步骤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,13 @@
   },
   "active": "3772036fc1f5f1e3",
   "lastOpenFiles": [
+    "来派生活启动步骤.md",
+    "设计模式.md",
     "大脑方法论.md",
+    "Android.md",
     "Tool.md",
     "README.md",
     "Git.md",
-    "Android.md",
-    "设计模式.md",
-    "来派生活启动步骤.md",
     "Untitled.md",
     "Vue.md",
     "Kotlin.md"
