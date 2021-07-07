@@ -17,3 +17,12 @@ if (Build.VERSION.SDK_INT>= Build.VERSION_CODES.KITKAT) {
 在app目录下的android MandroidManifest的application节点下 添加android:debuggable="true"
 
 4. AndroidStudio 翻译插件： Translation
+
+5. AndroidStudio  gradle 更新可以使用命令 ./gradlew build
+
+6. Android 视图坐标系
+![[Pasted image 20210527173558.png]]
+
+7. Android文件存储路径
+![[Pasted image 20210707163037.png]]
+

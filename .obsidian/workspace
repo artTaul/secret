@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3772036fc1f5f1e3",
+        "id": "a6482c09f8220733",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "来派生活启动步骤.md",
+            "file": "Git.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "来派生活启动步骤.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3772036fc1f5f1e3",
+  "active": "a6482c09f8220733",
   "lastOpenFiles": [
-    "来派生活启动步骤.md",
-    "设计模式.md",
-    "大脑方法论.md",
+    "Git.md",
     "Android.md",
+    "图谱/Pasted image 20210527173558.png",
+    "图谱/Event官方架构图.png",
+    "Pasted image 20210707163037.png",
+    "Pasted image 20210707162914.png",
+    "Vue.md",
     "Tool.md",
     "README.md",
-    "Git.md",
-    "Untitled.md",
-    "Vue.md",
     "Kotlin.md"
   ]
 }
